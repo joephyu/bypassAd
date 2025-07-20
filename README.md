@@ -2,6 +2,10 @@
 ## Screenshot
 ![App Screenshot](screenshot.jpg)
 
+## Demo
+
+![Demo](screenshortvdo.gif)
+
 # Bypass annoying ads with a simple Termux script.
 ##  Installation
 
