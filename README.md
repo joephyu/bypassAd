@@ -1,6 +1,6 @@
 Run the script:
 
-chmod +x bypass_ad_cm.sh
+chmod +x bypassAds.sh
 ./by*.sh
 
 ## Screenshot
