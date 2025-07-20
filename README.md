@@ -1,7 +1,12 @@
-Run the script:
+# Bypass annoying ads with a simple Termux script.
+##  Installation
 
-chmod +x bypassAds.sh
-./by*.sh
+Clone the repo and run the script:
+
+```bash
+git clone https://github.com/joephyu/bypassAd.git
+cd bypassAd
+bash bypassAd.sh
 
 ## Screenshot
 
