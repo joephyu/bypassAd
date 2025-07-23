@@ -35,6 +35,9 @@ Close and reopen the browser.
 Now, when browsing websites like cm, ads and popups (especially during video playback) will be completely blocked.
 
 
+
+
+
 ![App Screenshot](demo/screenshot.jpg)
 
 ## Extension v1.0
