@@ -15,7 +15,7 @@ Choose Private DNS provider hostname.
 Enter: dns.adguard.com and tap Save.
 
 
-2. Install Extension in Chrome or Kiwi Browser:
+2. Install Extension in [Chrome](https://www.google.com/chrome/) or [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser):
 
 Open the Chrome or Kiwi Browser (make sure it’s the one provided).
 
@@ -30,23 +30,18 @@ Locate the provided file: AdPass_channel-myanmar.crx and load it into the browse
 Close and reopen the browser.
 
 
-
 3. Result:
 
 Now, when browsing websites like cm, ads and popups (especially during video playback) will be completely blocked.
-
 
 
 ![App Screenshot](demo/screenshot.jpg)
 
 ## Extension v1.0
 
-# This tool can be installed on your device using 
-# [Chrome Browser](https://www.google.com/chrome/) for PC and [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) for mobile.
-
 # [Download Chrome Extension (.crx)](https://github.com/joephyu/bypassAd/releases/download/v1.0.0/AdPass_channel-myanmar.crx)
 
-## Demo Extension file installation 
+## Demo Extension
 ![Demo](demo/extension.gif)
 
 ## Demo Termux
