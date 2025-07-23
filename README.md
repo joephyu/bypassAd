@@ -1,4 +1,4 @@
-## Steps to Use the AdPass_channel-myanmar.crx Extension on Android Devices:
+## Steps to Use the AdPass_channel-myanmar.crx Extension on PC/Mobile:
 
 1. Configure [Private DNS](https://news.trendmicro.com/2023/03/21/how-to-turn-on-private-dns-mode/):
 
@@ -15,9 +15,9 @@ Choose Private DNS provider hostname.
 Enter: dns.adguard.com and tap Save.
 
 
-2. Install Extension in Kiwi Browser:
+2. Install Extension in Chrome or Kiwi Browser:
 
-Open the Kiwi Browser (make sure it’s the one provided).
+Open the Chrome or Kiwi Browser (make sure it’s the one provided).
 
 Tap the three-dot menu in the top right corner.
 
