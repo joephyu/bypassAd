@@ -6,6 +6,11 @@
 
 ![Demo](screenshortvdo.gif)
 
+# AdPass_channel-myanmar
+Chrome Extension for Ads Bypass.
+## Downloads
+[Download Chrome Extension (.crx)](https://github.com/joephyu/bypassAd/releases/download/v1.0.0/AdPass_channel-myanmar.crx)
+
 # Bypass annoying ads with a simple Termux script.
 ##  Installation
 
