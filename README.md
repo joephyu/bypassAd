@@ -1,11 +1,4 @@
-
-## Screenshot
 ![App Screenshot](demo/screenshot.jpg)
-
-## Demo
-
-![Demo](demo/screenshortvdo.gif)
-
 
 ## Extension v1.0
 
@@ -16,6 +9,11 @@
 
 ## Demo Extension file installation 
 ![Demo](demo/extension.gif)
+
+## Demo Termux
+
+![Demo](demo/screenshortvdo.gif)
+
 
 # Bypass annoying ads with a simple [Termux](https://play.google.com/store/apps/details?id=com.termux) and Linux script.
 ##  Installation
