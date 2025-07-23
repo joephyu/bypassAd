@@ -7,7 +7,7 @@
 ![Demo](screenshortvdo.gif)
 
 #Extension v1.0
-This tool can be installed on your device using Chrome Browser for PC and Kiwi Browser for mobile.
+#This tool can be installed on your device using Chrome Browser for PC and Kiwi Browser for mobile.
 [Download Chrome Extension (.crx)](https://github.com/joephyu/bypassAd/releases/download/v1.0.0/AdPass_channel-myanmar.crx)
 
 # Bypass annoying ads with a simple Termux script.
