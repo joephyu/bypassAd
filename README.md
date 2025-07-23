@@ -1,10 +1,10 @@
 
 ## Screenshot
-![App Screenshot](screenshot.jpg)
+![App Screenshot](demo/screenshot.jpg)
 
 ## Demo
 
-![Demo](screenshortvdo.gif)
+![Demo](demo/screenshortvdo.gif)
 
 
 ## Extension v1.0
@@ -15,7 +15,7 @@
 # [Download Chrome Extension (.crx)](https://github.com/joephyu/bypassAd/releases/download/v1.0.0/AdPass_channel-myanmar.crx)
 
 ## Demo Extension file installation 
-![Demo](extension.gif)
+![Demo](demo/extension.gif)
 
 # Bypass annoying ads with a simple [Termux](https://play.google.com/store/apps/details?id=com.termux) and Linux script.
 ##  Installation
