@@ -17,7 +17,7 @@
 ## Demo Extension file installation 
 ![Demo](extension.gif)
 
-# Bypass annoying ads with a simple Termux script.
+# Bypass annoying ads with a simple [Termux](https://play.google.com/store/apps/details?id=com.termux) and Linux script.
 ##  Installation
 
 Clone the repo and run the script:
